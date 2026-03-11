@@ -1,4 +1,4 @@
-# Documentação de Medidas DAX
+# Documentação das Medidas: Projeto Faturamento — ByteWave
 
 Este arquivo documenta as medidas utilizadas no modelo Power BI do projeto.
 
