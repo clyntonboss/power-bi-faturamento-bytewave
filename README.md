@@ -6,9 +6,6 @@ Este projeto apresenta um **dashboard analítico de vendas desenvolvido em Power
 
 A solução foi construída para consolidar dados transacionais em uma **estrutura analítica clara**, permitindo identificar tendências de vendas, participação de canais comerciais e performance dos vendedores.
 
-🔎 **Acesse o dashboard interativo:**  
-- https://app.powerbi.com/view?r=eyJrIjoiNWI2NzFiYWQtNGZlMy00ZDVkLTgwOTgtODM1NDA1NzJlZjFmIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9
-
 🔎 [Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiNWI2NzFiYWQtNGZlMy00ZDVkLTgwOTgtODM1NDA1NzJlZjFmIiwidCI6IjIzY2FjN2VlLWYxZDgtNDMzOS1hYTdiLTc4MWFhOWY5MjI1YiJ9)  
 
 ---
